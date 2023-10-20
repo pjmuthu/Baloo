@@ -36,8 +36,3 @@ To use Baloo's firmware for your zoo's feeders and enrichment devices, follow th
 5. Connect the devices to your GCP instance to enable remote management and monitoring.
 
 6. Ensure that the server-side feed schedule is configured to match your zoo's feeding requirements.
-
-7. Start enjoying the benefits of Baloo's efficient and user-friendly firmware for your zoo's feeders and enrichment activities.
-
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this firmware in accordance with the terms of the license.
